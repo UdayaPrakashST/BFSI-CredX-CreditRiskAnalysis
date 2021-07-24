@@ -1,6 +1,6 @@
 # BFSI-CreditRiskAnalysis
 
-##Problem Statement
+## Problem Statement
 
 The acquisition team of CredX is responsible for identifying the right prospects to target and provide suitable product(s)
 In the past few years, CredX has experienced an increase in Credit Loss 
